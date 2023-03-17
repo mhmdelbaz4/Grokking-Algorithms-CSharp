@@ -1,0 +1,15 @@
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
+F:\Elbaz\Github Repos\Grokking-Algorithms-CSharp\CSharp_Implementation\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll
